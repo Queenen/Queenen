@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vxkGZCh/im-annette.png" alt="im-annette" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vxkGZCh/im-annette.png" alt="introduction" border="0"></a>
 <p>I'm a student at Noroff school of technology and digital media 💻</p>
 
 <b>🌱 I’m currently learning ...</b>
