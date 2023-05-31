@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vxkGZCh/im-annette.png" alt="im-annette" border="0"></a>
+<p>I'm a student at Noroff school of technology and digital media 💻</p>
+
+<b>🌱 I’m currently learning ...</b>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4VqYHSG/html.png" alt="html" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GFg4F8p/javascript.png" alt="javascript" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5FVpzDK/css3.png" alt="css3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/R7HWBbD/figma.png" alt="figma" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0QD5Zk6/visual.png" alt="visual" border="0"></a>
 
 <!--
 **Queenen/Queenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
