@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meek-rolypoly-b19aa7.netlify.app/](https://meek-rolypoly-b19aa7.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS and JS**
+- 💬 Ask me about **HTML, CSS, JS and Figma**
 
 - 📫 How to reach me **annette_bjork@fastmail.com**
 
