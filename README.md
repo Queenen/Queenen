@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/vxkGZCh/im-annette.png" alt="introduction" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/ZTHsjsv/banner.png" alt="banner" border="0"></p>
 
 <h3 align="center">A passionate frontend developer student at Noroff school of technology and digital media 💻</h3>
 
