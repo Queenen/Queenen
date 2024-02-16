@@ -28,6 +28,8 @@
 𝓒𝓮𝓻𝓽𝓲𝓯𝓲𝓬𝓪𝓽𝓮𝓼:
 <br></br>
 • &nbsp; <a href="https://www.freecodecamp.org/certification/Nettie/responsive-web-design">Responsive Web Design</a>
+<br></br>
+• &nbsp; <a href="https://www.freecodecamp.org/certification/Nettie/javascript-algorithms-and-data-structures-v8">Javascript Algorithms and Data Structures</a>
 
 <br></br>
 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!
