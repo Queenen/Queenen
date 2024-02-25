@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/ZTHsjsv/banner.png" alt="banner" border="0" width="100%"></p>
+<p align="center"><img src="https://i.ibb.co/v4ws0SP/header.png" alt="banner" border="0" width="100%"></p>
 
 <h3 align="center">A passionate frontend developer student at Noroff school of technology and digital media 💻</h3>
 
@@ -6,11 +6,11 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on [NoroffFEU/agency.noroff.dev](https://github.com/NoroffFEU/agency.noroff.dev)
+- 🔭 I’m currently working on /school assignments
 
 - 🌱 I’m currently learning **JS and React**
 
-- 👨‍💻 All of my projects are available at [https://meek-rolypoly-b19aa7.netlify.app/](https://meek-rolypoly-b19aa7.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://annette-b-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS and Figma**
 
